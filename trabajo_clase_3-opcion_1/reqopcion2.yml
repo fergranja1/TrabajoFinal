@@ -1,0 +1,10 @@
+name: clase35 # Nombre del entorno
+channels:
+  - defaults  # Canal predeterminado
+dependencies:
+  - python=3.12.7  # Versión de Python
+  - pandas=2.2.3  # Versión de pandas
+  - numpy=2.2.2  # Versión de numpy
+  - matplotlib=3.10  # Versión de matplotlib
+  - pip=25.0  # Agregar pip para instalar paquetes con pip si es necesario
+  - seaborn=0.13.2
